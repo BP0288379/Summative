@@ -4,8 +4,7 @@
 
 
 ## Executive summary
-
-
+The project aimed to investigate if Anti-Jewish hate crimes in New York state increased between 2010 and 2019. By analysing the trend through linear regression and produce and AB testing between the incidents in 2010 and 2019, we determined that Anti-Jewish hate crimes have a positive trend not caused by random variation. The model will be extended to the following years and potential outliers will be further studied.
 
 ## Data Source and Preparation
 The New York state hate crime data from 2010 to 2019 (Kaggle 2019) was obtained from the website Kaggle and sourced from the New York Division of Criminal Justice Services by a site user. 
