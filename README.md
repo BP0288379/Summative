@@ -63,7 +63,7 @@ The extreme difference between this observed difference and the resampled differ
 In conclusion, linear regression and bootstrap sampling support the theory of Anti-Jewish hate crimes increasing between 2010 and 2019, but A/B testing reveals that the figures in 2019 might have been skewed by an occurrence and not caused by random variation.
 
 ## Conclusion
-In conclusion, our analyses suggested Anti-Jewish hate crimes increased between 2010 and 2019. Considering the figures in 2012 and 2019 skewed our results, our future studies should investigate the causes behind these variations.
+In conclusion, our analyses suggested Anti-Jewish hate crimes increased between 2010 and 2019. Considering the figures in 2012 and 2019 skewed our results, our future studies should investigate the causes behind these variations and continue the analysis for the following years
 
 Parameters delimiting hate crimes are subjective, often influenced by individuals recording incidents. Moreover, biases such as selection biases (Kangralkar, S. 2023) may have influenced how the data was collected by the data source. To address this issue, an improvement could be ensuring every district representative of minorities is included in the dataset.
 
