@@ -69,7 +69,7 @@ Parameters delimiting hate crimes are subjective, often influenced by individual
 
 From an ethical perspective, the topic of hate crimes demands careful handling to ensure integrity and accuracy of findings. It is crucial that every statement is justified by reliable data to avoid misrepresentation and misinformation.
 
-## References Bibliography
+## References/Bibliography
 Bruce, P., Bruce, A. and Gedeck, P. (2017) Practical statistics for Data scientists. O’Reilly Media, Inc.
 
 Devitt, J. (2021) America more liberal than 50 years ago-but change not reflected in its politics, NYU. Available at: https://www.nyu.edu/about/news-publications/news/2021/december/america-more-liberal-than-50-years-ago-but-change-not-reflected-.html (Accessed: 01 August 2024).
@@ -81,6 +81,7 @@ Kangralkar, S. (2023) Types of biases in data, Medium. Available at: https://tow
 Kuznetsova, A. (2023) Gestalt principles in Data Visualization, Medium. Available at: https://nastengraph.medium.com/gestalt-principles-in-data-visualization-a4e56e6074b5 (Accessed: 01 August 2024).
 
 Lidman, M & Nyberg, J (2023) Accessible Analytic Dashboards. Available at: http://hdl.handle.net/20.500.12380/306747 (Accessed: 01 May 2024).
+270TOWIN (2024). New York voting history. Available at: https://www.270towin.com/states/New_York (Accessed: 01 August 2024).
 
 ## Appendix
 Kaggle (2019). New York Division of Criminal Justice Services sourced by Kaggle user. US Hate Crime Dataset 2010-2019 (Multiple Sources). Available at: https://www.kaggle.com/datasets/sumaiaparveenshupti/us-hate-crime-dataset-20102019-multiple-sources (Accessed: 01 July 2024)
