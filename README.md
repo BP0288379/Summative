@@ -83,6 +83,8 @@ Kuznetsova, A. (2023) Gestalt principles in Data Visualization, Medium. Availabl
 Lidman, M & Nyberg, J (2023) Accessible Analytic Dashboards. Available at: http://hdl.handle.net/20.500.12380/306747 (Accessed: 01 May 2024).
 270TOWIN (2024). New York voting history. Available at: https://www.270towin.com/states/New_York (Accessed: 01 August 2024).
 
+270TOWIN (2024). New York voting history. Available at: https://www.270towin.com/states/New_York (Accessed: 01 August 2024).
+
 ## Appendix
 Kaggle (2019). New York Division of Criminal Justice Services sourced by Kaggle user. US Hate Crime Dataset 2010-2019 (Multiple Sources). Available at: https://www.kaggle.com/datasets/sumaiaparveenshupti/us-hate-crime-dataset-20102019-multiple-sources (Accessed: 01 July 2024)
 
